@@ -52,6 +52,7 @@ This project requires Python 3.8 or 3.9 and the following Python libraries insta
 
 
 ## Credits
-1. [Stackoverflow](https://stackoverflow.com)
-2. [Kaggle](https://www.kaggle.com/)
-3. [Krish naik youtube channel](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+1. [GOMYCODE](https://gomycode.com/DZ-FR/home)
+2. [Stackoverflow](https://stackoverflow.com)
+3. [Kaggle](https://www.kaggle.com/)
+4. [Krish naik youtube channel](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
