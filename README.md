@@ -40,7 +40,7 @@ This project requires Python 3.8 or 3.9 and the following Python libraries insta
 ## Test Result from Flask APP
 
 ## The web app page:
-![app](images/apage_no.PNG)
+![app](images/pageno.PNG)
 
 
 ### 1. Brain without Tumor:
